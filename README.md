@@ -17,7 +17,3 @@
 ![mcyydscc's Most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mcyydscc&layout=compact&hide_border=true&langs_count=10)
 
 [![mcyydscc's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mcyydscc)](https://github.com/anuraghazra/github-readme-stats)
-
-[![mcyydscc's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mcyydscc&theme=xcode)](https://github.com/mcyydscc)
-
-
